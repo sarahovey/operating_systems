@@ -10,9 +10,8 @@ Used to get familiar with bash, and stdin/stdout/stderr
 ## Homework 2:
 A simple game
 
-The `buildrooms` file generates 6 random rooms, and builds the graph of connections between them
-
-The `adventure` file walks the user through navigating the rooms from starting node to ending node
++ The `buildrooms` file generates 6 random rooms, and builds the graph of connections between them
++ The `adventure` file walks the user through navigating the rooms from starting node to ending node
 
 Built in c99
 
